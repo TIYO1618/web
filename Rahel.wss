@@ -1,0 +1,287 @@
+<site sitename="New Site" version="3.0"><css><a cssname="style1" showname="style1"><link fontname="" fontstyle="N" fontsize="0" fontcolor="#969696" bgcolor=""/><hover fontname="" fontstyle="N" fontsize="0" fontcolor="#969696" bgcolor=""/><active fontname="" fontstyle="N" fontsize="0" fontcolor="#969696" bgcolor=""/><visited fontname="" fontstyle="N" fontsize="0" fontcolor="#969696" bgcolor=""/></a><a cssname="style2"><link fontname="" fontstyle="U" fontsize="0" fontcolor="#969696" bgcolor=""/><hover fontname="" fontstyle="U" fontsize="0" fontcolor="#969696" bgcolor=""/><active fontname="" fontstyle="N" fontsize="0" fontcolor="#969696" bgcolor=""/><visited fontname="" fontstyle="U" fontsize="0" fontcolor="#808080" bgcolor=""/></a></css><page id="p34114854" name="index" pageindex="0" pp="0" cp="0"><body bgpreview="" bgspreview="" template="true" backgroundcolor="#F0F0F0" bgimagedata="" bgoutput="" bgsoutput=""><Component id="image1" zorder="1" type="3" filename="image44710320" left="166" top="85" width="571" height="150" src="C:\Program Files (x86)\Web Page Maker\Templates\Personal\Personal004\images\image1.jpg" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Personal\Personal004\images\image1.jpg" originwidth="600" originheight="150" exportfilename="images/image1.jpg" thumbname="thumb23874031" resamplename="img23874046"/><Component id="image2" zorder="0" type="3" filename="image45131315" left="166" top="27" width="573" height="671" src="C:\Program Files (x86)\Web Page Maker\Templates\Personal\Personal004\images\bg1234.gif" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Personal\Personal004\images\bg1234.gif" originwidth="15" originheight="49" bgcolor="" bordercolor="#DFDFDF" borderstyle="1" borderwidth="1" exportfilename="images/bg1234.gif" thumbname="thumb23873984" resamplename="img23874000"/><Component id="shape2" zorder="2" type="4" filename="rect45364951" left="171" top="283" width="556" height="1" bgcolor="#BA7FB8" previewfile="C:\Users\47901\AppData\Local\Temp\Web Page Maker\doc1PTU9\shapeD4DH1.gif" exportfilename="images/rect45364951.gif"/><Component id="shape3" zorder="3" type="4" filename="rect45494978" left="222" top="278" width="130" height="6" bgcolor="#BA7FB8" previewfile="C:\Users\47901\AppData\Local\Temp\Web Page Maker\doc1PTU9\shape6E9IJ.gif" exportfilename="images/rect45494978.gif"/><Component id="shape4" zorder="4" type="4" filename="rect45666444" left="-1" top="232" width="167" height="486" bgcolor="#F0F0F0" bordercolor="#C0C0C0" borderstyle="1" borderwidth="1" fillstyle="0" spborder="1" previewfile="C:\Users\47901\AppData\Local\Temp\Web Page Maker\doc1PTU9\shapeKE1OJ.gif" exportfilename="images/rect45666444.gif"/><Component id="ellipse1" zorder="5" type="11" filename="ellipse46406338" left="571" top="370" width="143" height="150" fillstyle="0" spborder="1" fromcolor="" shapetype="2" previewfile="C:\Users\47901\AppData\Local\Temp\Web Page Maker\doc1PTU9\shape5K5EC.gif" bgcolor="" bordercolor="#E7E7E7" borderstyle="0" borderwidth="4" tocolor="#808080" exportfilename="images/ellipse46406338.gif"/><Component id="ellipse2" zorder="6" type="11" filename="ellipse46472393" left="593" top="466" width="143" height="150" fillstyle="0" spborder="1" fromcolor="" shapetype="2" previewfile="C:\Users\47901\AppData\Local\Temp\Web Page Maker\doc1PTU9\shape2OE33.gif" bgcolor="" bordercolor="#E7E7E7" borderstyle="0" borderwidth="4" tocolor="#808080" exportfilename="images/ellipse46472393.gif"/><Component id="ellipse3" zorder="7" type="11" filename="ellipse46477961" left="519" top="468" width="143" height="150" fillstyle="0" spborder="1" fromcolor="" shapetype="2" previewfile="C:\Users\47901\AppData\Local\Temp\Web Page Maker\doc1PTU9\shapeHVGVR.gif" bgcolor="" bordercolor="#E7E7E7" borderstyle="0" borderwidth="4" tocolor="#808080" exportfilename="images/ellipse46477961.gif"/><Component id="text3" zorder="8" type="2" filename="text46847102" left="173" top="289" width="444" height="399" text="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font color="#808080" face="Tahoma" style="font-size:12px;"&gt;Hello, I am Raheal Mamo, a dedicated female entrepreneur and broker committed to providing exceptional services to my clients. With a passion for real estate and investment opportunities, I strive to help individuals achieve their financial goals and secure their future.&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font color="#808080" face="Tahoma" style="font-size:12px;"&gt;At my firm, we offer a range of personalized services tailored to meet the unique needs of each client. Whether you are looking to buy, sell, or invest in real estate, I am here to guide you through every step of the process. From market analysis to negotiation and closing, I will work tirelessly to ensure your success.&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font color="#808080" face="Tahoma" style="font-size:12px;"&gt;With years of experience in the industry, I have developed a deep understanding of the market trends and opportunities, allowing me to provide expert advice and strategic solutions to my clients. My goal is to empower you to make informed decisions and achieve your financial objectives.&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" style="font-size:12px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL style="margin-top:0px;margin-bottom:0px"&gt;
+&lt;li&gt;&lt;font color="#808080" face="Tahoma" style="font-size:12px;"&gt;If you are ready to take control of your financial future and explore the possibilities in real estate and investments, I invite you to connect with me. Let's work together to turn your aspirations into reality. Contact me, Raheal Mamo, today and let's embark on this journey towards financial success together.&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font color="#808080" face="Tahoma" class="ws9"&gt;Hello, I am Raheal Mamo, a dedicated female entrepreneur and broker committed to providing exceptional services to my clients. With a passion for real estate and investment opportunities, I strive to help individuals achieve their financial goals and secure their future.&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font color="#808080" face="Tahoma" class="ws9"&gt;At my firm, we offer a range of personalized services tailored to meet the unique needs of each client. Whether you are looking to buy, sell, or invest in real estate, I am here to guide you through every step of the process. From market analysis to negotiation and closing, I will work tirelessly to ensure your success.&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font color="#808080" face="Tahoma" class="ws9"&gt;With years of experience in the industry, I have developed a deep understanding of the market trends and opportunities, allowing me to provide expert advice and strategic solutions to my clients. My goal is to empower you to make informed decisions and achieve your financial objectives.&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;div&gt;&lt;font color="#808080" face="Tahoma" class="ws9"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;UL&gt;
+&lt;li&gt;&lt;font color="#808080" face="Tahoma" class="ws9"&gt;If you are ready to take control of your financial future and explore the possibilities in real estate and investments, I invite you to connect with me. Let's work together to turn your aspirations into reality. Contact me, Raheal Mamo, today and let's embark on this journey towards financial success together.&lt;/font&gt;&lt;/li&gt;
+&lt;/UL&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoLAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIJBUNvbG9yBwZjbEdyYXkAAC05IDIgMCAwIDIgMCAy
+DQpydnMNCmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQpnAAAADgEJU3R5bGVOYW1lBgpMaXN0IFN0eWxlCFN0
+YW5kYXJkCAZMZXZlbHMOAQpMZWZ0SW5kZW50AhgLRmlyc3RJbmRlbnQCAAlGb250Lk5hbWUGBlN5
+bWJvbAAABUxzdElEBJbrEhwAAC0xMSAwIDAgMCAwIDAgMCAwIDAgMA0KNyAxIC0xIDEgMCAwDQpI
+ZWxsbywgSSBhbSBSYWhlYWwgTWFtbywgYSBkZWRpY2F0ZWQgZmVtYWxlIGVudHJlcHJlbmV1ciBh
+bmQgYnJva2VyIGNvbW1pdHRlZCB0byBwcm92aWRpbmcgZXhjZXB0aW9uYWwgc2VydmljZXMgdG8g
+bXkgY2xpZW50cy4gV2l0aCBhIHBhc3Npb24gZm9yIHJlYWwgZXN0YXRlIGFuZCBpbnZlc3RtZW50
+IG9wcG9ydHVuaXRpZXMsIEkgc3RyaXZlIHRvIGhlbHAgaW5kaXZpZHVhbHMgYWNoaWV2ZSB0aGVp
+ciBmaW5hbmNpYWwgZ29hbHMgYW5kIHNlY3VyZSB0aGVpciBmdXR1cmUuDQo3IDEgMCAwIDAgMA0K
+DQotMTEgMCAwIDAgMCAwIDAgMCAwIDANCjcgMSAtMSAxIDAgMA0KQXQgbXkgZmlybSwgd2Ugb2Zm
+ZXIgYSByYW5nZSBvZiBwZXJzb25hbGl6ZWQgc2VydmljZXMgdGFpbG9yZWQgdG8gbWVldCB0aGUg
+dW5pcXVlIG5lZWRzIG9mIGVhY2ggY2xpZW50LiBXaGV0aGVyIHlvdSBhcmUgbG9va2luZyB0byBi
+dXksIHNlbGwsIG9yIGludmVzdCBpbiByZWFsIGVzdGF0ZSwgSSBhbSBoZXJlIHRvIGd1aWRlIHlv
+dSB0aHJvdWdoIGV2ZXJ5IHN0ZXAgb2YgdGhlIHByb2Nlc3MuIEZyb20gbWFya2V0IGFuYWx5c2lz
+IHRvIG5lZ290aWF0aW9uIGFuZCBjbG9zaW5nLCBJIHdpbGwgd29yayB0aXJlbGVzc2x5IHRvIGVu
+c3VyZSB5b3VyIHN1Y2Nlc3MuDQo3IDEgMCAwIDAgMA0KDQotMTEgMCAwIDAgMCAwIDAgMCAwIDAN
+CjcgMSAtMSAxIDAgMA0KV2l0aCB5ZWFycyBvZiBleHBlcmllbmNlIGluIHRoZSBpbmR1c3RyeSwg
+SSBoYXZlIGRldmVsb3BlZCBhIGRlZXAgdW5kZXJzdGFuZGluZyBvZiB0aGUgbWFya2V0IHRyZW5k
+cyBhbmQgb3Bwb3J0dW5pdGllcywgYWxsb3dpbmcgbWUgdG8gcHJvdmlkZSBleHBlcnQgYWR2aWNl
+IGFuZCBzdHJhdGVnaWMgc29sdXRpb25zIHRvIG15IGNsaWVudHMuIE15IGdvYWwgaXMgdG8gZW1w
+b3dlciB5b3UgdG8gbWFrZSBpbmZvcm1lZCBkZWNpc2lvbnMgYW5kIGFjaGlldmUgeW91ciBmaW5h
+bmNpYWwgb2JqZWN0aXZlcy4NCjcgMSAwIDAgMCAwDQoNCi0xMSAwIDAgMCAwIDAgMCAwIDAgMA0K
+NyAxIC0xIDEgMCAwDQpJZiB5b3UgYXJlIHJlYWR5IHRvIHRha2UgY29udHJvbCBvZiB5b3VyIGZp
+bmFuY2lhbCBmdXR1cmUgYW5kIGV4cGxvcmUgdGhlIHBvc3NpYmlsaXRpZXMgaW4gcmVhbCBlc3Rh
+dGUgYW5kIGludmVzdG1lbnRzLCBJIGludml0ZSB5b3UgdG8gY29ubmVjdCB3aXRoIG1lLiBMZXQn
+cyB3b3JrIHRvZ2V0aGVyIHRvIHR1cm4geW91ciBhc3BpcmF0aW9ucyBpbnRvIHJlYWxpdHkuIENv
+bnRhY3QgbWUsIFJhaGVhbCBNYW1vLCB0b2RheSBhbmQgbGV0J3MgZW1iYXJrIG9uIHRoaXMgam91
+cm5leSB0b3dhcmRzIGZpbmFuY2lhbCBzdWNjZXNzIHRvZ2V0aGVyLg0K
+</rvf></Component><Component zorder="9" global="1" id="g_text2"/><Component zorder="10" global="1" id="g_text1"/><Component type="3" id="image3" zorder="11" filename="image22537421" left="0" top="62" width="168" height="174" originwidth="580" originheight="594" src="C:\Users\47901\Desktop\projrct 1\logo1.png" previewfile="C:\Users\47901\Desktop\projrct 1\logo1.png" thumbname="thumb23874078" resamplename="img23874093" exportfilename="images/logo1.png"/></body></page>
+	<page id="p34230520" name="about" pageindex="1" pp="0" cp="0"><body bgpreview="" bgspreview="" template="true" backgroundcolor="#F0F0F0" bgimagedata="" bgoutput="" bgsoutput=""><Component id="image1" zorder="1" type="3" filename="image44710320" left="166" top="82" width="570" height="150" src="C:\Program Files (x86)\Web Page Maker\Templates\Personal\Personal004\images\personal004_2.jpg" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Personal\Personal004\images\personal004_2.jpg" originwidth="600" originheight="150" exportfilename="images/personal004_2.jpg" bgcolor="" bordercolor="#808080" borderstyle="0" borderwidth="3" changefilename="0" alt="" thumbname="thumb23874390" resamplename="img23874406"/><Component id="image2" zorder="0" type="3" filename="image45131315" left="166" top="27" width="573" height="671" src="C:\Program Files (x86)\Web Page Maker\Templates\Personal\Personal004\images\bg1234.gif" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Personal\Personal004\images\bg1234.gif" originwidth="15" originheight="49" bgcolor="" bordercolor="#DFDFDF" borderstyle="1" borderwidth="1" exportfilename="images/bg1234.gif" thumbname="thumb23874343" resamplename="img23874359"/><Component id="shape2" zorder="2" type="4" filename="rect45364951" left="171" top="283" width="556" height="1" bgcolor="#E3ABB6" fillstyle="0" previewfile="C:\Users\47901\AppData\Local\Temp\Web Page Maker\doc1PTU9\shapeLQUDT.gif" exportfilename="images/rect45364951.gif"/><Component id="shape3" zorder="3" type="4" filename="rect45494978" left="222" top="278" width="130" height="6" bgcolor="#C6728A" fillstyle="0" previewfile="C:\Users\47901\AppData\Local\Temp\Web Page Maker\doc1PTU9\shapeL18CP.gif" exportfilename="images/rect45494978.gif"/><Component id="shape4" zorder="4" type="4" filename="rect45666444" left="-1" top="232" width="167" height="471" bgcolor="#F0F0F0" bordercolor="#C0C0C0" borderstyle="1" borderwidth="1" fillstyle="0" spborder="1" previewfile="C:\Users\47901\AppData\Local\Temp\Web Page Maker\doc1PTU9\shapeSQ7CD.gif" fp="0" exportfilename="images/rect45666444.gif"/><Component id="text3" zorder="5" type="2" filename="text46847102" left="224" top="323" width="462" height="355" text="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;One of the key benefits of working with me is that I offer competitive pricing without compromising on the quality of service. I believe that everyone should have the opportunity to benefit from professional real estate advice and assistance, which is why I make sure that my services are affordable and cost-effective.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;By choosing to work with me, you not only gain access to my expertise and wide network of connections but also benefit from my commitment to helping you achieve your financial objectives. Whether you are looking to buy, sell, or invest in real estate, I am here to guide you through every step of the process and ensure that you make informed decisions that align with your goals.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;If you are ready to take control of your financial future and explore the possibilities in real estate and investments, I invite you to connect with me, Raheal Mamo. Let's work together to turn your aspirations into reality and pave the way for your financial success. Contact me today and let's embark on this journey together.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;One of the key benefits of working with me is that I offer competitive pricing without compromising on the quality of service. I believe that everyone should have the opportunity to benefit from professional real estate advice and assistance, which is why I make sure that my services are affordable and cost-effective.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;By choosing to work with me, you not only gain access to my expertise and wide network of connections but also benefit from my commitment to helping you achieve your financial objectives. Whether you are looking to buy, sell, or invest in real estate, I am here to guide you through every step of the process and ensure that you make informed decisions that align with your goals.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;If you are ready to take control of your financial future and explore the possibilities in real estate and investments, I invite you to connect with me, Raheal Mamo. Let's work together to turn your aspirations into reality and pave the way for your financial success. Contact me today and let's embark on this journey together.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoLAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBUNvbG9yBwZjbEdyYXkAAC05IDIgMCAwIDIgMCAy
+DQpydnMNCrUAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduCFN0YW5kYXJkCAlBbGlnbm1lbnQHCnJ2YUp1c3Rp
+ZnkHT3B0aW9ucwsABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANyA2IDIgMCAw
+IDANCg0KT25lIG9mIHRoZSBrZXkgYmVuZWZpdHMgb2Ygd29ya2luZyB3aXRoIG1lIGlzIHRoYXQg
+SSBvZmZlciBjb21wZXRpdGl2ZSBwcmljaW5nIHdpdGhvdXQgY29tcHJvbWlzaW5nIG9uIHRoZSBx
+dWFsaXR5IG9mIHNlcnZpY2UuIEkgYmVsaWV2ZSB0aGF0IGV2ZXJ5b25lIHNob3VsZCBoYXZlIHRo
+ZSBvcHBvcnR1bml0eSB0byBiZW5lZml0IGZyb20gcHJvZmVzc2lvbmFsIHJlYWwgZXN0YXRlIGFk
+dmljZSBhbmQgYXNzaXN0YW5jZSwgd2hpY2ggaXMgd2h5IEkgbWFrZSBzdXJlIHRoYXQgbXkgc2Vy
+dmljZXMgYXJlIGFmZm9yZGFibGUgYW5kIGNvc3QtZWZmZWN0aXZlLg0KDQpCeSBjaG9vc2luZyB0
+byB3b3JrIHdpdGggbWUsIHlvdSBub3Qgb25seSBnYWluIGFjY2VzcyB0byBteSBleHBlcnRpc2Ug
+YW5kIHdpZGUgbmV0d29yayBvZiBjb25uZWN0aW9ucyBidXQgYWxzbyBiZW5lZml0IGZyb20gbXkg
+Y29tbWl0bWVudCB0byBoZWxwaW5nIHlvdSBhY2hpZXZlIHlvdXIgZmluYW5jaWFsIG9iamVjdGl2
+ZXMuIFdoZXRoZXIgeW91IGFyZSBsb29raW5nIHRvIGJ1eSwgc2VsbCwgb3IgaW52ZXN0IGluIHJl
+YWwgZXN0YXRlLCBJIGFtIGhlcmUgdG8gZ3VpZGUgeW91IHRocm91Z2ggZXZlcnkgc3RlcCBvZiB0
+aGUgcHJvY2VzcyBhbmQgZW5zdXJlIHRoYXQgeW91IG1ha2UgaW5mb3JtZWQgZGVjaXNpb25zIHRo
+YXQgYWxpZ24gd2l0aCB5b3VyIGdvYWxzLg0KDQpJZiB5b3UgYXJlIHJlYWR5IHRvIHRha2UgY29u
+dHJvbCBvZiB5b3VyIGZpbmFuY2lhbCBmdXR1cmUgYW5kIGV4cGxvcmUgdGhlIHBvc3NpYmlsaXRp
+ZXMgaW4gcmVhbCBlc3RhdGUgYW5kIGludmVzdG1lbnRzLCBJIGludml0ZSB5b3UgdG8gY29ubmVj
+dCB3aXRoIG1lLCBSYWhlYWwgTWFtby4gTGV0J3Mgd29yayB0b2dldGhlciB0byB0dXJuIHlvdXIg
+YXNwaXJhdGlvbnMgaW50byByZWFsaXR5IGFuZCBwYXZlIHRoZSB3YXkgZm9yIHlvdXIgZmluYW5j
+aWFsIHN1Y2Nlc3MuIENvbnRhY3QgbWUgdG9kYXkgYW5kIGxldCdzIGVtYmFyayBvbiB0aGlzIGpv
+dXJuZXkgdG9nZXRoZXIuDQo=
+</rvf></Component><Component id="g_text2" zorder="6" global="1"/><Component id="g_text1" zorder="7" global="1"/><Component type="3" id="image3" zorder="8" filename="image22617750" left="0" top="62" width="168" height="174" originwidth="580" originheight="594" src="C:\Users\47901\Desktop\projrct 1\logo1.png" previewfile="C:\Users\47901\Desktop\projrct 1\logo1.png" thumbname="thumb23874437" resamplename="img23874453" exportfilename="images/logo1.png"/></body></page>
+	<page id="p34233615" name="profile" pageindex="2" pp="0" cp="0"><body bgpreview="" bgspreview="" template="true" backgroundcolor="#F0F0F0" bgimagedata="" bgoutput="" bgsoutput=""><Component id="shape1" zorder="1" type="4" filename="rect39759060" left="-3" top="81" width="169" height="151" bgcolor="#F1D2F2" fromcolor="#F8E7C9" tocolor="#EABA66" fillstyle="5" previewfile="C:\Users\47901\AppData\Local\Temp\Web Page Maker\doc1PTU9\shape3DRAL.gif" exportfilename="images/rect39759060.gif"/><Component id="image2" zorder="0" type="3" filename="image45131315" left="166" top="27" width="573" height="671" src="C:\Program Files (x86)\Web Page Maker\Templates\Personal\Personal004\images\bg1234.gif" previewfile="C:\Program Files (x86)\Web Page Maker\Templates\Personal\Personal004\images\bg1234.gif" originwidth="15" originheight="49" bgcolor="" bordercolor="#DFDFDF" borderstyle="1" borderwidth="1" exportfilename="images/bg1234.gif" thumbname="thumb23874781" resamplename="img23874796"/><Component id="shape2" zorder="2" type="4" filename="rect45364951" left="171" top="283" width="556" height="1" bgcolor="#F7E0B6" fillstyle="0" previewfile="C:\Users\47901\AppData\Local\Temp\Web Page Maker\doc1PTU9\shape53C4N.gif" exportfilename="images/rect45364951.gif"/><Component id="shape3" zorder="3" type="4" filename="rect45494978" left="205" top="277" width="130" height="6" bgcolor="#EABA66" fillstyle="0" previewfile="C:\Users\47901\AppData\Local\Temp\Web Page Maker\doc1PTU9\shapeTGT1G.gif" exportfilename="images/rect45494978.gif"/><Component id="shape4" zorder="4" type="4" filename="rect45666444" left="-1" top="232" width="167" height="486" bgcolor="#F0F0F0" bordercolor="#E8E8E8" borderstyle="1" borderwidth="1" fillstyle="0" spborder="1" previewfile="C:\Users\47901\AppData\Local\Temp\Web Page Maker\doc1PTU9\shapeIUN1M.gif" exportfilename="images/rect45666444.gif"/><Component id="text3" zorder="5" type="2" filename="text9334271" left="224" top="323" width="476" height="195" text="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;Hello, I am Raheal Mamo, a passionate female entrepreneur and broker dedicated to helping others achieve their financial goals. With years of experience in the industry, I have built a reputation for my expertise in real estate and investment opportunities.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;On my website, you will find valuable resources, insightful articles, and personalized services to guide you through the world of investments and financial planning. Whether you are a seasoned investor or a beginner looking to grow your wealth, I am here to support and empower you on your journey to financial success.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" style="font-size:11px;"&gt;Join me on this exciting adventure of building wealth and securing your financial future. Let's work together to turn your dreams into reality. Visit my website today and start your journey towards financial freedom with me, Raheal Mamo.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;Hello, I am Raheal Mamo, a passionate female entrepreneur and broker dedicated to helping others achieve their financial goals. With years of experience in the industry, I have built a reputation for my expertise in real estate and investment opportunities.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;On my website, you will find valuable resources, insightful articles, and personalized services to guide you through the world of investments and financial planning. Whether you are a seasoned investor or a beginner looking to grow your wealth, I am here to support and empower you on your journey to financial success.&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=justify&gt;&lt;font color="#808080" face="Tahoma" class="ws8"&gt;Join me on this exciting adventure of building wealth and securing your financial future. Let's work together to turn your dreams into reality. Visit my website today and start your journey towards financial freedom with me, Raheal Mamo.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoLAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBUNvbG9yBwZjbEdyYXkAAC05IDIgMCAwIDIgMCAy
+DQpydnMNCrUAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFicw4A
+AAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBgpMZWZ0IEFsaWduCFN0YW5kYXJkCAlBbGlnbm1lbnQHCnJ2YUp1c3Rp
+ZnkHT3B0aW9ucwsABFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANyA1IDIgMCAw
+IDANCkhlbGxvLCBJIGFtIFJhaGVhbCBNYW1vLCBhIHBhc3Npb25hdGUgZmVtYWxlIGVudHJlcHJl
+bmV1ciBhbmQgYnJva2VyIGRlZGljYXRlZCB0byBoZWxwaW5nIG90aGVycyBhY2hpZXZlIHRoZWly
+IGZpbmFuY2lhbCBnb2Fscy4gV2l0aCB5ZWFycyBvZiBleHBlcmllbmNlIGluIHRoZSBpbmR1c3Ry
+eSwgSSBoYXZlIGJ1aWx0IGEgcmVwdXRhdGlvbiBmb3IgbXkgZXhwZXJ0aXNlIGluIHJlYWwgZXN0
+YXRlIGFuZCBpbnZlc3RtZW50IG9wcG9ydHVuaXRpZXMuDQoNCk9uIG15IHdlYnNpdGUsIHlvdSB3
+aWxsIGZpbmQgdmFsdWFibGUgcmVzb3VyY2VzLCBpbnNpZ2h0ZnVsIGFydGljbGVzLCBhbmQgcGVy
+c29uYWxpemVkIHNlcnZpY2VzIHRvIGd1aWRlIHlvdSB0aHJvdWdoIHRoZSB3b3JsZCBvZiBpbnZl
+c3RtZW50cyBhbmQgZmluYW5jaWFsIHBsYW5uaW5nLiBXaGV0aGVyIHlvdSBhcmUgYSBzZWFzb25l
+ZCBpbnZlc3RvciBvciBhIGJlZ2lubmVyIGxvb2tpbmcgdG8gZ3JvdyB5b3VyIHdlYWx0aCwgSSBh
+bSBoZXJlIHRvIHN1cHBvcnQgYW5kIGVtcG93ZXIgeW91IG9uIHlvdXIgam91cm5leSB0byBmaW5h
+bmNpYWwgc3VjY2Vzcy4NCg0KSm9pbiBtZSBvbiB0aGlzIGV4Y2l0aW5nIGFkdmVudHVyZSBvZiBi
+dWlsZGluZyB3ZWFsdGggYW5kIHNlY3VyaW5nIHlvdXIgZmluYW5jaWFsIGZ1dHVyZS4gTGV0J3Mg
+d29yayB0b2dldGhlciB0byB0dXJuIHlvdXIgZHJlYW1zIGludG8gcmVhbGl0eS4gVmlzaXQgbXkg
+d2Vic2l0ZSB0b2RheSBhbmQgc3RhcnQgeW91ciBqb3VybmV5IHRvd2FyZHMgZmluYW5jaWFsIGZy
+ZWVkb20gd2l0aCBtZSwgUmFoZWFsIE1hbW8uDQo=
+</rvf></Component><Component id="g_text2" zorder="6" global="1"/><Component id="g_text1" zorder="7" global="1"/><Component type="3" id="image1" zorder="8" filename="image21989578" left="189" top="76" width="262" height="193" originwidth="640" originheight="640" src="C:\Users\47901\Desktop\projrct 1\photo.jpg" previewfile="C:\Users\47901\Desktop\projrct 1\photo.jpg" thumbname="thumb23874828" resamplename="img23874843" exportfilename="images/photo.jpg"/><Component type="3" id="image3" zorder="9" filename="image22622078" left="0" top="62" width="168" height="174" originwidth="580" originheight="594" src="C:\Users\47901\Desktop\projrct 1\logo1.png" previewfile="C:\Users\47901\Desktop\projrct 1\logo1.png" thumbname="thumb23874875" resamplename="img23874890" exportfilename="images/logo1.png"/><Component type="2" id="text1" zorder="10" filename="text22834031" width="150" height="90" html="" left="196" top="653" newhtml="1" htmlcode="" newexhtml="1" exporthtml="" newcode="1" editcode="" rvf="" dlcount="0" imgcount="0" editorbgcolor="536870911" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#0000FF"&gt;Telegram&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#0000FF"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#0000FF"&gt;Telegram&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#0000FF"&gt;&lt;BR&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQoDAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgVBcmlhbAVDb2xvcgcGY2xCbHVlAAAtOSAyIDAgMCAyIDAgMg0KcnZzDQps
+AAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRhYnMOAAABCVN0eWxl
+TmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsABFRhYnMOAAAALTkg
+MiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANyAyIDAgMCAwIDANClRlbGVncmFtDQoNCg==
+</rvf></Component><Component type="3" id="image4" zorder="11" filename="image22994968" left="170" top="485" width="155" height="154" originwidth="259" originheight="343" src="C:\Users\47901\Desktop\projrct 1\T.Qr.png" previewfile="C:\Users\47901\Desktop\projrct 1\T.Qr.png" thumbname="thumb23874921" resamplename="img23874937" exportfilename="images/T.Qr.png"/></body></page>
+	<components><Component id="g_text1" zorder="12" type="2" filename="text9321153" left="223" top="37" width="557" height="52" text="" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1" include="p34114854,p34230520,p34233615" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma"&gt;&lt;B&gt;&lt;a href="page://p34114854" title="" class="style1"&gt;Main Page&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma"&gt;&lt;B&gt;&lt;a href="page://p34230520" title="" class="style1"&gt;About Us&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma"&gt;&lt;B&gt;&lt;a href="page://p34233615" title="" class="style1"&gt;Profile&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma"&gt;&lt;B&gt;&lt;a href="page://p34114854" title="" class="style1"&gt;Main Page&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma"&gt;&lt;B&gt;&lt;a href="page://p34230520" title="" class="style1"&gt;About Us&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma"&gt;&lt;B&gt;&lt;a href="page://p34233615" title="" class="style1"&gt;Profile&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQqBAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAAFQ29sb3IElpaWAAABCVN0eWxlTmFt
+ZQYLTm9ybWFsIHRleHQIU3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAtm
+c1VuZGVybGluZQAFQ29sb3IHBmNsQmx1ZQRKdW1wCQtOZXh0U3R5bGVObwIHAAAtOSAyIDAgMCAy
+IDAgMg0KcnZzDQpsAAAADgEJU3R5bGVOYW1lBg9QYXJhZ3JhcGggU3R5bGUHT3B0aW9ucwsABFRh
+YnMOAAABCVN0eWxlTmFtZQYIQ2VudGVyZWQJQWxpZ25tZW50BwlydmFDZW50ZXIHT3B0aW9ucwsA
+BFRhYnMOAAAALTkgMiAwIDAgMiAwIDQNCnJ2cw0KAgAAAA4ANyAyIDAgMCAwIDANCg0KICAgICAg
+DQo4IDEgLTEgMSAwICJ1cmw9cGFnZTovL3AzNDExNDg1NCxsaW5rc3R5bGU9c3R5bGUxIg0KTWFp
+biBQYWdlDQo3IDEgLTEgMSAwIDANCiAgICAgICAgICAgIA0KOCAxIC0xIDEgMCAidXJsPXBhZ2U6
+Ly9wMzQyMzA1MjAsbGlua3N0eWxlPXN0eWxlMSINCkFib3V0IFVzDQo3IDEgLTEgMSAwIDANCiAg
+ICAgICAgICAgICANCjggMSAtMSAxIDAgInVybD1wYWdlOi8vcDM0MjMzNjE1LGxpbmtzdHlsZT1z
+dHlsZTEiDQpQcm9maWxlDQo3IDEgLTEgMSAwIDANCiAgICAgICAgICAgICAgIA0K
+</rvf></Component><Component id="g_text2" zorder="11" type="2" filename="text35186585" left="1" top="234" width="163" height="122" text="" bgcolor="#FFFFFF" bordercolor="#FAFAFA" borderstyle="1" borderwidth="2" html="" exporthtml="" rvf="" group="0" groupname="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1" include="p34114854,p34230520,p34233615" fp="0" lp="0"><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div align=right&gt;&lt;font color="#969696" face="Tahoma" style="font-size:8px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma"&gt;&lt;B&gt;&lt;a href="page://p34114854" title="" class="style2"&gt;Main Page&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#969696" face="Tahoma" style="font-size:8px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma"&gt;&lt;B&gt;&lt;a href="page://p34230520" title="" class="style2"&gt;About us&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#969696" face="Tahoma" style="font-size:8px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma"&gt;&lt;B&gt;&lt;a href="page://p34233615" title="" class="style2"&gt;Profile&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#969696" face="Tahoma" style="font-size:8px;"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div align=right&gt;&lt;font color="#969696" face="Tahoma" class="ws6"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma"&gt;&lt;B&gt;&lt;a href="page://p34114854" title="" class="style2"&gt;Main Page&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#969696" face="Tahoma" class="ws6"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma"&gt;&lt;B&gt;&lt;a href="page://p34230520" title="" class="style2"&gt;About us&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#969696" face="Tahoma" class="ws6"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;font face="Tahoma"&gt;&lt;B&gt;&lt;a href="page://p34233615" title="" class="style2"&gt;Profile&lt;/a&gt;&lt;/B&gt;&lt;/font&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#969696" face="Tahoma" class="ws6"&gt;&lt;B&gt;&lt;BR&gt;&lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;div align=center&gt;&lt;font color="#969696" face="Tahoma"&gt;&lt;B&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/B&gt;&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQowAwAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIGBVN0eWxlCwZmc0JvbGQABUNvbG9yBJaWlgAAAQlT
+dHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZm
+c0JvbGQLZnNVbmRlcmxpbmUABUNvbG9yBJaWlgAAAQlTdHlsZU5hbWUGC05vcm1hbCB0ZXh0CFN0
+YW5kYXJkCAhGb250TmFtZQYGVGFob21hBVN0eWxlCwZmc0JvbGQLZnNVbmRlcmxpbmUABUNvbG9y
+BwZjbEJsdWUESnVtcAkLTmV4dFN0eWxlTm8CCAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3Rh
+bmRhcmQICEZvbnROYW1lBgZUYWhvbWEFU3R5bGULBmZzQm9sZAAFQ29sb3IElpaWAAAALTkgMiAw
+IDAgMiAwIDINCnJ2cw0KuAAAAA4BCVN0eWxlTmFtZQYPUGFyYWdyYXBoIFN0eWxlB09wdGlvbnML
+AARUYWJzDgAAAQlTdHlsZU5hbWUGCENlbnRlcmVkCUFsaWdubWVudAcJcnZhQ2VudGVyB09wdGlv
+bnMLAARUYWJzDgAAAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQhTdGFuZGFyZAgJQWxpZ25t
+ZW50BwhydmFSaWdodAdPcHRpb25zCwAEVGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAA
+DgA3IDEgMiAwIDAgMA0KDQoxMCAxIDEgMCAwIDANCiAgICAgIA0KOSAxIC0xIDEgMCAidXJsPXBh
+Z2U6Ly9wMzQxMTQ4NTQsbGlua3N0eWxlPXN0eWxlMiINCk1haW4gUGFnZQ0KMTAgMSAtMSAxIDAg
+MA0KICAgICAgIA0KNyAxIDEgMCAwIDANCg0KMTAgMSAxIDAgMCAwDQogICAgICAgDQo5IDEgLTEg
+MSAwICJ1cmw9cGFnZTovL3AzNDIzMDUyMCxsaW5rc3R5bGU9c3R5bGUyIg0KQWJvdXQgdXMNCjEw
+IDEgLTEgMSAwIDANCiAgICAgICAgDQo3IDEgMSAwIDAgMA0KDQoxMCAxIDEgMCAwIDANCiAgICAg
+ICAgIA0KOSAxIC0xIDEgMCAidXJsPXBhZ2U6Ly9wMzQyMzM2MTUsbGlua3N0eWxlPXN0eWxlMiIN
+ClByb2ZpbGUNCjEwIDEgLTEgMSAwIDANCiAgICAgICAgICANCjcgMSAxIDAgMCAwDQoNCjEwIDEg
+MSAwIDAgMA0KICAgICAgICAgICANCg==
+</rvf></Component><Component id="g_text3" zorder="9" type="2" filename="text46722333" left="165" top="698" width="616" height="20" text="" bgcolor="#C0C0C0" html="" exporthtml="" rvf="" newhtml="1" htmlcode="" newexhtml="1" dlcount="0" imgcount="0" editorbgcolor="536870911" newcode="1" editcode="" backup="1" include=""><htmlcode>&lt;FONT style="font-size:13px" color="#000000" face="Arial"&gt;
+&lt;div&gt;&lt;font color="#333333" face="Tahoma"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;font style="font-size:11px" color="#333333" face="Tahoma"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Copyright 2002-2005 Your Web Site Inc. All Rights Reserved.&lt;/font&gt;&lt;/div&gt;
+&lt;/FONT&gt;
+</htmlcode><exportcode>&lt;div class="wpmd"&gt;
+&lt;div&gt;&lt;font color="#333333" face="Tahoma"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;/font&gt;&lt;font class="ws8" color="#333333" face="Tahoma"&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Copyright 2002-2005 Your Web Site Inc. All Rights Reserved.&lt;/font&gt;&lt;/div&gt;
+&lt;/div&gt;
+</exportcode><rvf>LTggMSAzDQotOSAyIDAgMCAyIDAgMQ0KcnZzDQpHAgAADgEJU3R5bGVOYW1lBgtOb3JtYWwgdGV4
+dAhGb250TmFtZQYFQXJpYWwAAQlTdHlsZU5hbWUGB0hlYWRpbmcIRm9udE5hbWUGBUFyaWFsBVN0
+eWxlCwZmc0JvbGQABUNvbG9yBwZjbEJsdWUAAQlTdHlsZU5hbWUGClN1YmhlYWRpbmcIRm9udE5h
+bWUGBUFyaWFsBVN0eWxlCwZmc0JvbGQABUNvbG9yBwZjbE5hdnkAAQlTdHlsZU5hbWUGCEtleXdv
+cmRzCEZvbnROYW1lBgVBcmlhbAVTdHlsZQsIZnNJdGFsaWMABUNvbG9yBwhjbE1hcm9vbgABCVN0
+eWxlTmFtZQYGSnVtcCAxCEZvbnROYW1lBgZUYWhvbWEFU3R5bGULC2ZzVW5kZXJsaW5lAAVDb2xv
+cgcGY2xCbHVlBEp1bXAJAAEJU3R5bGVOYW1lBgZKdW1wIDIIRm9udE5hbWUGBUFyaWFsBVN0eWxl
+Cwtmc1VuZGVybGluZQAFQ29sb3IHB2NsR3JlZW4ESnVtcAkAAQlTdHlsZU5hbWUGB1VuaWNvZGUI
+Rm9udE5hbWUGBlN5c3RlbQdVbmljb2RlCQABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQIU3RhbmRh
+cmQICEZvbnROYW1lBgZUYWhvbWEFQ29sb3IEMzMzAAABCVN0eWxlTmFtZQYLTm9ybWFsIHRleHQI
+U3RhbmRhcmQICEZvbnROYW1lBgZUYWhvbWEEU2l6ZQIIBUNvbG9yBDMzMwAAAC05IDIgMCAwIDIg
+MCAyDQpydnMNCmwAAAAOAQlTdHlsZU5hbWUGD1BhcmFncmFwaCBTdHlsZQdPcHRpb25zCwAEVGFi
+cw4AAAEJU3R5bGVOYW1lBghDZW50ZXJlZAlBbGlnbm1lbnQHCXJ2YUNlbnRlcgdPcHRpb25zCwAE
+VGFicw4AAAAtOSAyIDAgMCAyIDAgNA0KcnZzDQoCAAAADgA3IDEgMCAwIDAgMA0KICAgICAgICAg
+IA0KOCAxIC0xIDEgMCAwDQogICAgICBDb3B5cmlnaHQgMjAwMi0yMDA1IFlvdXIgV2ViIFNpdGUg
+SW5jLiBBbGwgUmlnaHRzIFJlc2VydmVkLg0K
+</rvf></Component></components></site>
